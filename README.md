@@ -1,2 +1,2 @@
 # LogisticsTest
-I just started Python+Selenium,This is my first test demno.
+I just start to study Python+Selenium,This is my first test。
