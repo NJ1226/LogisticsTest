@@ -39,7 +39,7 @@ def bb(driver):
     except BaseException as e:
         return i
 
-# 成成测试报告
+# 生成测试报告
 def TestReport1(test_suit):
     now_date = datetime.datetime.now().strftime('%Y%m%d')
     filepath = "../TestReport/"
